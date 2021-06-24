@@ -15,5 +15,13 @@ cd currencyconverter
 step 3 :- 
 python manage.py runserver
 
+Below are pics of the web app :- 
 
-![Screenshot (11)](https://user-images.githubusercontent.com/61731053/123221945-146da600-d4ed-11eb-8497-8827d7fbfeb1.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/61731053/123222618-bb524200-d4ed-11eb-92fc-451a3ffd6c86.png)
+
+
+
+![Screenshot (12)](https://user-images.githubusercontent.com/61731053/123222840-f785a280-d4ed-11eb-8d7a-819d409a3868.png)
+
+
+
